@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import random
+import time
 
 from lru_cache.main import LRUCacheDecorator
 
